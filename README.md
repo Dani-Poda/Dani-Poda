@@ -61,15 +61,30 @@ Sistema tipo Kanban con funcionalidades avanzadas de colaboración
   - Validación con Zod schemas
 - **Destacado:** Implementación completa de flujo colaborativo real
 
-#### 📚 [Comic Book Store](https://github.com/Dani-Poda/comic-book-store)
-Tienda de cómics desarrollada con Angular
-- **Stack:** Angular + TypeScript
-- **Features:** Routing, servicios, componentes reutilizables, gestión de estado
+---
 
-#### 🚗 [Car Dealership App](https://github.com/Dani-Poda/car-dealership)
-Aplicación de gestión de concesionario
+### 🎯 Proyectos Angular
+
+#### 📰 [Blog Application](https://github.com/Dani-Poda/blog-app)
+Aplicación de blog que consume API externa
+- **Stack:** Angular + TypeScript
+- **Features:** Consumo de APIs REST, routing, servicios, gestión de estado
+- **Aprendizaje:** Integración con APIs reales y manejo de datos asíncronos
+
+#### 📚 [Tienda de Cómics](https://github.com/Dani-Poda/tienda-comics)
+E-commerce de cómics desarrollado con Angular
+- **Stack:** Angular + TypeScript
+- **Features:** Catálogo de productos, routing, componentes reutilizables, servicios
+
+#### 🚗 [Concesionario App](https://github.com/Dani-Poda/concesionario-app)
+Aplicación de gestión de concesionario de vehículos
 - **Stack:** Angular + TypeScript
 - **Features:** CRUD completo, gestión de inventario, filtrado avanzado
+
+#### ✅ [Lista de Tareas](https://github.com/Dani-Poda/lista-tareas-app)
+Gestor de tareas con Angular
+- **Stack:** Angular + TypeScript
+- **Features:** CRUD de tareas, gestión de estado local, componentes dinámicos
 
 ---
 
