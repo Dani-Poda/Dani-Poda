@@ -61,7 +61,7 @@ Sistema tipo Kanban con funcionalidades avanzadas de colaboración
   - Validación con Zod schemas
 - **Destacado:** Implementación completa de flujo colaborativo real
 
-#### 🎬 [Watched & Checked - Seguimiento de Películas y Series](https://github.com/Dani-Poda/watched-and-checked)
+#### 🎬 [Watched & Checked - Seguimiento de Películas y Series](https://github.com/Dani-Poda/watched-checked)
 
 App personal para registrar y gestionar películas y series vistas o pendientes
 
@@ -101,9 +101,9 @@ Gestor de tareas con Angular
 
 ### 📊 GitHub Stats
 
-![Estadísticas de GitHub de Dani](https://github-readme-stats.vercel.app/api?username=Dani-Poda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+![Estadísticas de GitHub de Dani](https://github-readme-stats.vercel.app/api?username=Dani-Poda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&cache_seconds=1800)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Poda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Poda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800)
 
 ---
 
