@@ -61,6 +61,17 @@ Sistema tipo Kanban con funcionalidades avanzadas de colaboración
   - Validación con Zod schemas
 - **Destacado:** Implementación completa de flujo colaborativo real
 
+#### 🎬 [Watched & Checked - Seguimiento de Películas y Series](https://github.com/Dani-Poda/watched-and-checked)
+
+App personal para registrar y gestionar películas y series vistas o pendientes
+
+- **Stack:** React + Vite + Bootstrap · Node.js + Express + MySQL
+- **Features:**
+  - CRUD completo de películas y series
+  - Marcado como visto / pendiente
+  - Interfaz responsive con Bootstrap
+- **Destacado:** Proyecto activo en desarrollo continuo
+
 ---
 
 ### 🎯 Proyectos Angular
